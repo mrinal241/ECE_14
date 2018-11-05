@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.tee_2014"
+    android:versionCode="1"
+    android:versionName="1.0" >
+    
+    <uses-permission android:name="android.permission.CALL_PHONE">
+        </uses-permission>
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="21" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".About_App_Activity"
+            android:label="@string/title_activity_about__app_" >
+        </activity>
+        <activity
+            android:name=".DeveloperActivity"
+            android:label="@string/title_activity_developer" >
+        </activity>
+        <activity
+            android:name=".Fedback_Activity"
+            android:label="@string/title_activity_fedback_" >
+        </activity>
+        <activity
+            android:name=".Id_Activity"
+            android:label="@string/title_activity_id_" >
+        </activity>
+        <activity
+            android:name=".ListActivity"
+            android:label="@string/title_activity_list" >
+        </activity>
+        <activity
+            android:name=".N03_Activity"
+            android:label="@string/title_activity_n03_" >
+        </activity>
+        <activity
+            android:name=".N04_Activity"
+            android:label="@string/title_activity_n04_" >
+        </activity>
+        <activity
+            android:name=".N05_Activity"
+            android:label="@string/title_activity_n05_" >
+        </activity>
+        <activity
+            android:name=".N07_Activity"
+            android:label="@string/title_activity_n07_" >
+        </activity>
+        <activity
+            android:name=".N08_Activity"
+            android:label="@string/title_activity_n08_" >
+        </activity>
+        <activity
+            android:name=".N09_Activity"
+            android:label="@string/title_activity_n09_" >
+        </activity>
+        <activity
+            android:name=".N10_Activity"
+            android:label="@string/title_activity_n10_" >
+        </activity>
+        <activity
+            android:name=".N11_Activity"
+            android:label="@string/title_activity_n11_" >
+        </activity>
+        <activity
+            android:name=".N15_Activity"
+            android:label="@string/title_activity_n15_" >
+        </activity>
+        <activity
+            android:name=".N16_Activity"
+            android:label="@string/title_activity_n16_" >
+        </activity>
+        <activity
+            android:name=".N17_Activity"
+            android:label="@string/title_activity_n17_" >
+        </activity>
+        <activity
+            android:name=".N18_Activity"
+            android:label="@string/title_activity_n18_" >
+        </activity>
+        <activity
+            android:name=".N19_Activity"
+            android:label="@string/title_activity_n19_" >
+        </activity>
+        <activity
+            android:name=".N20_Activity"
+            android:label="@string/title_activity_n20_" >
+        </activity>
+        <activity
+            android:name=".N21_Activity"
+            android:label="@string/title_activity_n21_" >
+        </activity>
+        <activity
+            android:name=".N24_Activity"
+            android:label="@string/title_activity_n24_" >
+        </activity>
+        <activity
+            android:name=".N22_Activity"
+            android:label="@string/title_activity_n22_" >
+        </activity>
+        <activity
+            android:name=".N30_Activity"
+            android:label="@string/title_activity_n30_" >
+        </activity>
+        <activity
+            android:name=".N25_Activity"
+            android:label="@string/title_activity_n25_" >
+        </activity>
+        <activity
+            android:name=".N26_Activity"
+            android:label="@string/title_activity_n26_" >
+        </activity>
+        <activity
+            android:name=".N27_Activity"
+            android:label="@string/title_activity_n27_" >
+        </activity>
+        <activity
+            android:name=".N28_Activity"
+            android:label="@string/title_activity_n28_" >
+        </activity>
+        <activity
+            android:name=".N29_Activity"
+            android:label="@string/title_activity_n29_" >
+        </activity>
+        <activity
+            android:name=".N32_Activity"
+            android:label="@string/title_activity_n32_" >
+        </activity>
+        <activity
+            android:name=".N34_Activity"
+            android:label="@string/title_activity_n34_" >
+        </activity>
+        <activity
+            android:name=".N35_Activity"
+            android:label="@string/title_activity_n35_" >
+        </activity>
+        <activity
+            android:name=".N36_Activity"
+            android:label="@string/title_activity_n36_" >
+        </activity>
+        <activity
+            android:name=".N37_Activity"
+            android:label="@string/title_activity_n37_" >
+        </activity>
+        <activity
+            android:name=".N38_Activity"
+            android:label="@string/title_activity_n38_" >
+        </activity>
+        <activity
+            android:name=".N39_Activity"
+            android:label="@string/title_activity_n39_" >
+        </activity>
+        <activity
+            android:name=".N40_Activity"
+            android:label="@string/title_activity_n40_" >
+        </activity>
+        <activity
+            android:name=".N42_Activity"
+            android:label="@string/title_activity_n42_" >
+        </activity>
+        <activity
+            android:name=".N43_Activity"
+            android:label="@string/title_activity_n43_" >
+        </activity>
+        <activity
+            android:name=".N44_Activity"
+            android:label="@string/title_activity_n44_" >
+        </activity>
+        <activity
+            android:name=".N47_Activity"
+            android:label="@string/title_activity_n47_" >
+        </activity>
+        <activity
+            android:name=".N48_Activity"
+            android:label="@string/title_activity_n48_" >
+        </activity>
+        <activity
+            android:name=".N49_Activity"
+            android:label="@string/title_activity_n49_" >
+        </activity>
+        <activity
+            android:name=".N50_Activity"
+            android:label="@string/title_activity_n50_" >
+        </activity>
+        <activity
+            android:name=".N54_Activity"
+            android:label="@string/title_activity_n54_" >
+        </activity>
+        <activity
+            android:name=".N51_Activity"
+            android:label="@string/title_activity_n51_" >
+        </activity>
+        <activity
+            android:name=".N52_Activity"
+            android:label="@string/title_activity_n52_" >
+        </activity>
+        <activity
+            android:name=".N53_Activity"
+            android:label="@string/title_activity_n53_" >
+        </activity>
+        <activity
+            android:name=".N55_Activity"
+            android:label="@string/title_activity_n55_" >
+        </activity>
+        <activity
+            android:name=".N58_Activity"
+            android:label="@string/title_activity_n58_" >
+        </activity>
+        <activity
+            android:name=".N60_Activity"
+            android:label="@string/title_activity_n60_" >
+        </activity>
+        <activity
+            android:name=".N61_Activity"
+            android:label="@string/title_activity_n61_" >
+        </activity>
+        <activity
+            android:name=".N62_Activity"
+            android:label="@string/title_activity_n62_" >
+        </activity>
+        <activity
+            android:name=".N63_Activity"
+            android:label="@string/title_activity_n63_" >
+        </activity>
+        <activity
+            android:name=".N64_Activity"
+            android:label="@string/title_activity_n64_" >
+        </activity>
+        <activity
+            android:name=".N65_Activity"
+            android:label="@string/title_activity_n65_" >
+        </activity>
+        <activity
+            android:name=".N66_Activity"
+            android:label="@string/title_activity_n66_" >
+        </activity>
+        <activity
+            android:name=".N68_Activity"
+            android:label="@string/title_activity_n68_" >
+        </activity>
+        <activity
+            android:name=".N70_Activity"
+            android:label="@string/title_activity_n70_" >
+        </activity>
+        <activity
+            android:name=".N71_Activity"
+            android:label="@string/title_activity_n71_" >
+        </activity>
+        <activity
+            android:name=".N72_Activity"
+            android:label="@string/title_activity_n72_" >
+        </activity>
+        <activity
+            android:name=".N73_Activity"
+            android:label="@string/title_activity_n73_" >
+        </activity>
+        <activity
+            android:name=".N74_Activity"
+            android:label="@string/title_activity_n74_" >
+        </activity>
+        <activity
+            android:name=".N75_Activity"
+            android:label="@string/title_activity_n75_" >
+        </activity>
+        <activity
+            android:name=".N76_Activity"
+            android:label="@string/title_activity_n76_" >
+        </activity>
+        <activity
+            android:name=".N78_Activity"
+            android:label="@string/title_activity_n78_" >
+        </activity>
+        <activity
+            android:name=".Name_Activity"
+            android:label="@string/title_activity_name_" >
+        </activity>
+        <activity
+            android:name=".R03_Activity"
+            android:label="@string/title_activity_r03_" >
+        </activity>
+        <activity
+            android:name=".R08_Activity"
+            android:label="@string/title_activity_r08_" >
+        </activity>
+        <activity
+            android:name=".R11_Activity"
+            android:label="@string/title_activity_r11_" >
+        </activity>
+        <activity
+            android:name=".R15_Activity"
+            android:label="@string/title_activity_r15_" >
+        </activity>
+        <activity
+            android:name=".R16_Activity"
+            android:label="@string/title_activity_r16_" >
+        </activity>
+        <activity
+            android:name=".R21_Activity"
+            android:label="@string/title_activity_r21_" >
+        </activity>
+        <activity
+            android:name=".R82_Activity"
+            android:label="@string/title_activity_r82_" >
+        </activity>
+        <activity
+            android:name=".R84_Activity"
+            android:label="@string/title_activity_r84_" >
+        </activity>
+        <activity
+            android:name=".R85_Activity"
+            android:label="@string/title_activity_r85_" >
+        </activity>
+        <activity
+            android:name=".R89_Activity"
+            android:label="@string/title_activity_r89_" >
+        </activity>
+        <activity
+            android:name=".R90_Activity"
+            android:label="@string/title_activity_r90_" >
+        </activity>
+        <activity
+            android:name=".R95_Activity"
+            android:label="@string/title_activity_r95_" >
+        </activity>
+
+        <activity
+            android:name=".N02_Activity"
+            android:label="@string/title_activity_n02_" >
+        </activity>
+        <activity
+            android:name=".R02_Activity"
+            android:label="@string/title_activity_r02_" >
+        </activity>
+        <activity
+            android:name=".R05_Activity"
+            android:label="@string/title_activity_r05_" >
+        </activity>
+        <activity
+            android:name=".R23_Activity"
+            android:label="@string/title_activity_r23_" >
+        </activity>
+    </application>
+
+</manifest>

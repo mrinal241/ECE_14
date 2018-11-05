@@ -1,0 +1,648 @@
+-- Merging decision tree log ---
+manifest
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:2:1-359:12
+INJECTED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:2:1-359:12
+INJECTED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:2:1-359:12
+INJECTED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:2:1-359:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\b54c9481b6b97ddf3973a7762792e21a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ad500d7214156d668ae101a48d6d2901\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\b6a485a5d8b753b91792e5bc7a61dc8b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\d61b54d038c61f5567272f308f3e6623\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\97515c347b8328bc8530b25dfe4f1c39\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\5a0d73ed26187e0496d5527427dbe0fa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\01a77b0a1e6f3444923291d49ff55950\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\9555c7d37662943395c9bb5caecc0a0a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\fcfcfc09b698f46c37cf13c71eec641a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\8dce8b7e22c44ad56d5fd377fa611df5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\d7cf420b0e9238a179dbcef8d5d5cb29\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\aa866082de7d243f02fc3f3c959a9c51\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\34df7d82392e24c0fd7ee413d79f86bc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\d14a0942022e28c4783668e99c47dd77\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\0515a48ef1ed713096ece4b21fc338a2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\0b2d843e206f7f983a6b84f7d396820b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\a17e41ac53c038204aeab26b661df688\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\ebb5113398dfec0de71ca084b2a6761a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\850c2669bc1178d000739e56864c6a22\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b7ddfc0443c63741d4fdee25bdf4a304\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\775879302ec7a8bf268a4fcd834504eb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\9420ed7a706ec79856a3a9d86a8fd31f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\c4be1df97330322837ef0e2cb63f9e87\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\8053d4b6b9a24bc2218db6242957a693\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\fbc7ee91ce75a4f73e6e8909edbdb6a8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6434f785daaf29857e18fec6c9567b42\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\d2f7dc909e492627080be91b69014fd1\AndroidManifest.xml:17:1-22:12
+INJECTED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:2:1-359:12
+INJECTED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:2:1-359:12
+INJECTED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:2:1-359:12
+	package
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CALL_PHONE
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:7:5-8:27
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:7:22-66
+uses-sdk
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:10:5-12:41
+INJECTED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:10:5-12:41
+INJECTED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:10:5-12:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\b54c9481b6b97ddf3973a7762792e21a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\b54c9481b6b97ddf3973a7762792e21a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ad500d7214156d668ae101a48d6d2901\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ad500d7214156d668ae101a48d6d2901\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\b6a485a5d8b753b91792e5bc7a61dc8b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\b6a485a5d8b753b91792e5bc7a61dc8b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\d61b54d038c61f5567272f308f3e6623\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\d61b54d038c61f5567272f308f3e6623\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\97515c347b8328bc8530b25dfe4f1c39\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\97515c347b8328bc8530b25dfe4f1c39\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\5a0d73ed26187e0496d5527427dbe0fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\5a0d73ed26187e0496d5527427dbe0fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\01a77b0a1e6f3444923291d49ff55950\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\01a77b0a1e6f3444923291d49ff55950\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\9555c7d37662943395c9bb5caecc0a0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\9555c7d37662943395c9bb5caecc0a0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\fcfcfc09b698f46c37cf13c71eec641a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\fcfcfc09b698f46c37cf13c71eec641a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\8dce8b7e22c44ad56d5fd377fa611df5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\8dce8b7e22c44ad56d5fd377fa611df5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\d7cf420b0e9238a179dbcef8d5d5cb29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\d7cf420b0e9238a179dbcef8d5d5cb29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\aa866082de7d243f02fc3f3c959a9c51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\aa866082de7d243f02fc3f3c959a9c51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\34df7d82392e24c0fd7ee413d79f86bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\34df7d82392e24c0fd7ee413d79f86bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\d14a0942022e28c4783668e99c47dd77\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\d14a0942022e28c4783668e99c47dd77\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\0515a48ef1ed713096ece4b21fc338a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\0515a48ef1ed713096ece4b21fc338a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\0b2d843e206f7f983a6b84f7d396820b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\0b2d843e206f7f983a6b84f7d396820b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\a17e41ac53c038204aeab26b661df688\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\a17e41ac53c038204aeab26b661df688\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\ebb5113398dfec0de71ca084b2a6761a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\ebb5113398dfec0de71ca084b2a6761a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\850c2669bc1178d000739e56864c6a22\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\850c2669bc1178d000739e56864c6a22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b7ddfc0443c63741d4fdee25bdf4a304\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b7ddfc0443c63741d4fdee25bdf4a304\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\775879302ec7a8bf268a4fcd834504eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\775879302ec7a8bf268a4fcd834504eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\9420ed7a706ec79856a3a9d86a8fd31f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\9420ed7a706ec79856a3a9d86a8fd31f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\c4be1df97330322837ef0e2cb63f9e87\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\c4be1df97330322837ef0e2cb63f9e87\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\8053d4b6b9a24bc2218db6242957a693\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\8053d4b6b9a24bc2218db6242957a693\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\fbc7ee91ce75a4f73e6e8909edbdb6a8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\fbc7ee91ce75a4f73e6e8909edbdb6a8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6434f785daaf29857e18fec6c9567b42\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6434f785daaf29857e18fec6c9567b42\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\d2f7dc909e492627080be91b69014fd1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\d2f7dc909e492627080be91b69014fd1\AndroidManifest.xml:20:5-44
+INJECTED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:10:5-12:41
+INJECTED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:10:5-12:41
+	android:targetSdkVersion
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:12:9-38
+		INJECTED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:11:9-34
+		INJECTED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml
+application
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:14:5-357:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ad500d7214156d668ae101a48d6d2901\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ad500d7214156d668ae101a48d6d2901\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\0b2d843e206f7f983a6b84f7d396820b\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\0b2d843e206f7f983a6b84f7d396820b\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\a17e41ac53c038204aeab26b661df688\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\a17e41ac53c038204aeab26b661df688\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Mrinal Kanti Ray\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\0b2d843e206f7f983a6b84f7d396820b\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:16:9-45
+	android:allowBackup
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:18:9-40
+activity#com.example.tee_2014.MainActivity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:19:9-27:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:21:13-45
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:20:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:25:27-74
+activity#com.example.tee_2014.About_App_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:28:9-31:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:30:13-63
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:29:13-47
+activity#com.example.tee_2014.DeveloperActivity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:32:9-35:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:34:13-61
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:33:13-46
+activity#com.example.tee_2014.Fedback_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:36:9-39:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:38:13-60
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:37:13-45
+activity#com.example.tee_2014.Id_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:40:9-43:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:42:13-55
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:41:13-40
+activity#com.example.tee_2014.ListActivity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:44:9-47:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:46:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:45:13-41
+activity#com.example.tee_2014.N03_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:48:9-51:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:50:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:49:13-41
+activity#com.example.tee_2014.N04_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:52:9-55:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:54:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:53:13-41
+activity#com.example.tee_2014.N05_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:56:9-59:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:58:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:57:13-41
+activity#com.example.tee_2014.N07_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:60:9-63:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:62:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:61:13-41
+activity#com.example.tee_2014.N08_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:64:9-67:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:66:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:65:13-41
+activity#com.example.tee_2014.N09_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:68:9-71:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:70:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:69:13-41
+activity#com.example.tee_2014.N10_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:72:9-75:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:74:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:73:13-41
+activity#com.example.tee_2014.N11_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:76:9-79:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:78:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:77:13-41
+activity#com.example.tee_2014.N15_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:80:9-83:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:82:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:81:13-41
+activity#com.example.tee_2014.N16_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:84:9-87:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:86:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:85:13-41
+activity#com.example.tee_2014.N17_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:88:9-91:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:90:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:89:13-41
+activity#com.example.tee_2014.N18_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:92:9-95:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:94:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:93:13-41
+activity#com.example.tee_2014.N19_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:96:9-99:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:98:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:97:13-41
+activity#com.example.tee_2014.N20_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:100:9-103:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:102:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:101:13-41
+activity#com.example.tee_2014.N21_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:104:9-107:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:106:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:105:13-41
+activity#com.example.tee_2014.N24_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:108:9-111:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:110:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:109:13-41
+activity#com.example.tee_2014.N22_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:112:9-115:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:114:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:113:13-41
+activity#com.example.tee_2014.N30_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:116:9-119:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:118:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:117:13-41
+activity#com.example.tee_2014.N25_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:120:9-123:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:122:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:121:13-41
+activity#com.example.tee_2014.N26_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:124:9-127:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:126:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:125:13-41
+activity#com.example.tee_2014.N27_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:128:9-131:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:130:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:129:13-41
+activity#com.example.tee_2014.N28_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:132:9-135:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:134:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:133:13-41
+activity#com.example.tee_2014.N29_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:136:9-139:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:138:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:137:13-41
+activity#com.example.tee_2014.N32_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:140:9-143:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:142:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:141:13-41
+activity#com.example.tee_2014.N34_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:144:9-147:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:146:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:145:13-41
+activity#com.example.tee_2014.N35_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:148:9-151:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:150:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:149:13-41
+activity#com.example.tee_2014.N36_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:152:9-155:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:154:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:153:13-41
+activity#com.example.tee_2014.N37_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:156:9-159:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:158:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:157:13-41
+activity#com.example.tee_2014.N38_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:160:9-163:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:162:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:161:13-41
+activity#com.example.tee_2014.N39_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:164:9-167:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:166:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:165:13-41
+activity#com.example.tee_2014.N40_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:168:9-171:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:170:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:169:13-41
+activity#com.example.tee_2014.N42_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:172:9-175:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:174:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:173:13-41
+activity#com.example.tee_2014.N43_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:176:9-179:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:178:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:177:13-41
+activity#com.example.tee_2014.N44_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:180:9-183:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:182:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:181:13-41
+activity#com.example.tee_2014.N47_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:184:9-187:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:186:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:185:13-41
+activity#com.example.tee_2014.N48_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:188:9-191:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:190:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:189:13-41
+activity#com.example.tee_2014.N49_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:192:9-195:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:194:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:193:13-41
+activity#com.example.tee_2014.N50_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:196:9-199:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:198:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:197:13-41
+activity#com.example.tee_2014.N54_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:200:9-203:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:202:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:201:13-41
+activity#com.example.tee_2014.N51_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:204:9-207:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:206:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:205:13-41
+activity#com.example.tee_2014.N52_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:208:9-211:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:210:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:209:13-41
+activity#com.example.tee_2014.N53_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:212:9-215:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:214:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:213:13-41
+activity#com.example.tee_2014.N55_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:216:9-219:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:218:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:217:13-41
+activity#com.example.tee_2014.N58_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:220:9-223:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:222:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:221:13-41
+activity#com.example.tee_2014.N60_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:224:9-227:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:226:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:225:13-41
+activity#com.example.tee_2014.N61_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:228:9-231:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:230:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:229:13-41
+activity#com.example.tee_2014.N62_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:232:9-235:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:234:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:233:13-41
+activity#com.example.tee_2014.N63_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:236:9-239:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:238:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:237:13-41
+activity#com.example.tee_2014.N64_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:240:9-243:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:242:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:241:13-41
+activity#com.example.tee_2014.N65_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:244:9-247:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:246:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:245:13-41
+activity#com.example.tee_2014.N66_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:248:9-251:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:250:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:249:13-41
+activity#com.example.tee_2014.N68_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:252:9-255:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:254:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:253:13-41
+activity#com.example.tee_2014.N70_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:256:9-259:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:258:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:257:13-41
+activity#com.example.tee_2014.N71_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:260:9-263:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:262:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:261:13-41
+activity#com.example.tee_2014.N72_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:264:9-267:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:266:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:265:13-41
+activity#com.example.tee_2014.N73_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:268:9-271:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:270:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:269:13-41
+activity#com.example.tee_2014.N74_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:272:9-275:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:274:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:273:13-41
+activity#com.example.tee_2014.N75_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:276:9-279:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:278:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:277:13-41
+activity#com.example.tee_2014.N76_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:280:9-283:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:282:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:281:13-41
+activity#com.example.tee_2014.N78_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:284:9-287:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:286:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:285:13-41
+activity#com.example.tee_2014.Name_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:288:9-291:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:290:13-57
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:289:13-42
+activity#com.example.tee_2014.R03_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:292:9-295:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:294:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:293:13-41
+activity#com.example.tee_2014.R08_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:296:9-299:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:298:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:297:13-41
+activity#com.example.tee_2014.R11_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:300:9-303:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:302:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:301:13-41
+activity#com.example.tee_2014.R15_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:304:9-307:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:306:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:305:13-41
+activity#com.example.tee_2014.R16_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:308:9-311:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:310:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:309:13-41
+activity#com.example.tee_2014.R21_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:312:9-315:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:314:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:313:13-41
+activity#com.example.tee_2014.R82_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:316:9-319:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:318:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:317:13-41
+activity#com.example.tee_2014.R84_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:320:9-323:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:322:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:321:13-41
+activity#com.example.tee_2014.R85_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:324:9-327:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:326:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:325:13-41
+activity#com.example.tee_2014.R89_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:328:9-331:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:330:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:329:13-41
+activity#com.example.tee_2014.R90_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:332:9-335:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:334:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:333:13-41
+activity#com.example.tee_2014.R95_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:336:9-339:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:338:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:337:13-41
+activity#com.example.tee_2014.N02_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:341:9-344:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:343:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:342:13-41
+activity#com.example.tee_2014.R02_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:345:9-348:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:347:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:346:13-41
+activity#com.example.tee_2014.R05_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:349:9-352:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:351:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:350:13-41
+activity#com.example.tee_2014.R23_Activity
+ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:353:9-356:20
+	android:label
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:355:13-56
+	android:name
+		ADDED from H:\Desktop\Newfolder\TEE_2014\app\src\main\AndroidManifest.xml:354:13-41
